@@ -1,2 +1,2 @@
 # git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-ln -s tmux/tmux.conf ~/.config/tmux/tmux.conf
+ln -s ~/dotfiles/tmux/tmux.conf ~/.tmux.conf
